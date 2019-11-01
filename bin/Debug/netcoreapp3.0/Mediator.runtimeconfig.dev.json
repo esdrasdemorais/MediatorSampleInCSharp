@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/esdras/.dotnet/store/|arch|/|tfm|",
+      "/home/esdras/.nuget/packages"
+    ]
+  }
+}
